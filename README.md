@@ -1,6 +1,6 @@
 # CRM-Application-that-helps-to-book-a-Visa-Slot
 
-trailhead URLs
+Trailhead URLs
 
 Team Lead - https://trailblazer.me/id/gopap4
 Team Member 1 - https://trailblazer.me/id/navek39
